@@ -134,6 +134,3 @@ func main() {
 		fmt.Println("Book1 > Book2 by Rate:", result)
 	}
 }
-
-//hw04-test
-// ebanutsya
