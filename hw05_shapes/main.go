@@ -71,4 +71,4 @@ func main() {
 	}
 }
 
-//ready
+// ready
