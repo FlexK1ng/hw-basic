@@ -1,7 +1,9 @@
 package printer
 
 import (
-	"github.com/fixme_my_friend/hw02_fix_app/types"
+	"fmt"
+
+	"github.com/FlexK1ng/hw-basic/hw02_fix_app/types"
 )
 
 func PrintStaff(staff types.Employee) {
